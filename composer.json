@@ -1,0 +1,7 @@
+{
+    "require": {
+        "chillerlan/php-qrcode": "^4.3",
+        "ext-gd": "*",
+        "google/apiclient": "2.12.1"
+    }
+}
